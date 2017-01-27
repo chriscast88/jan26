@@ -26,6 +26,36 @@ var classGroup = [
     firstName: 'Joshua',
     glasses: false,
     hairColor: 'black'
+  },
+  {
+    firstName: 'Alden',
+    glasses: true,
+    hairColor: 'brown'
+  },
+  {
+    firstName: 'Sea',
+    glasses: false,
+    hairColor: 'blonde'
+  },
+  {
+    firstName: 'Ripley',
+    glasses: false,
+    hairColor: 'black'
+  },
+  {
+    firstName: 'Tamara',
+    glasses: true,
+    hairColor: 'black'
+  },
+  {
+    firstName: 'Lauren',
+    glasses: true,
+    hairColor: 'black'
+  },
+  {
+    firstName: 'Lark',
+    glasses: false,
+    hairColor: 'blonde'
   }
 ];
 
